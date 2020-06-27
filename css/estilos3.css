@@ -65,12 +65,13 @@ float: right;
 
 .titulo{
   color: #ffffff;
+  font-size: 140%;
 }
 
 .texto{
   color: #ffffff;
   text-align: justify;
   float: left;
-  font-size: 180%;
+  font-size: 120%;
   padding: 15px 15px;
 }
