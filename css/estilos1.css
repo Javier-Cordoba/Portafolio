@@ -65,9 +65,9 @@ float: right;
 
 .titulo{
     text-align: center;
-    font-size: 300%;
+    font-size: 250%;
     color: blanchedalmond;
-    padding: 15px 15px;
+    padding: 15px 15px 30px;
 }
 
 .perfil{
@@ -122,7 +122,7 @@ float: right;
 
 .frase{
     text-align: center;
-    font-size: 120%;
+    font-size: 90%;
     color: blanchedalmond;
     padding: 15px 15px;
 }
